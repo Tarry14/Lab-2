@@ -1,1 +1,3 @@
-# Lab-2
+# In our researches we focused on using different methods to collect accurate and precise scores from variable sources.
+Models(algorithms) used were KNN,Dummy Classifier,Decision Tree and Logistic Regression.
+I made created a models to foresee the quality of the wines. For these models we are planning to utilize the wine dataset that didn't have the inferred variable 'rating',to begin with we are going to part our dataset into preparing and testing sets. Preparing set will be utilized to create our demonstrate and we'll foresee over testing setand as the information has been prepared, we'll continue with Modal Deployment . Diverse strategies will be tried to finalize the most excellent fit modal for the Wine Quality forecast 
